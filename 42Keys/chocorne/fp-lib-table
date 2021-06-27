@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name chocorne)(type KiCad)(uri D:/git/36keys/42Keys/chocorne)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri D:/git/36keys/footprints)(options "")(descr ""))
+)
